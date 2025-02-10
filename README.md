@@ -1,4 +1,4 @@
-# Sky Torch
+# Sky Torch天空火炬
 ## Introduction
 This plugin was developed for a video:
 [Orbital Laser in Minecraft (Sky Torch)](https://youtu.be/OKXTGbp6AMk)
