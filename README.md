@@ -1,6 +1,6 @@
 # Sky Torch天空火炬
-## Introduction
-This plugin was developed for a video:
+## 介绍
+此插件是为视频开发的：
 [Orbital Laser in Minecraft (Sky Torch)](https://youtu.be/OKXTGbp6AMk)
 
 ## Installation
